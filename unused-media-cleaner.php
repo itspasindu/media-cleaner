@@ -3,7 +3,7 @@
 Plugin Name: Media Cleaner Plugin
 Plugin URI: https://itspasindu.com/media-cleaner-plugin/
 Description: A WordPress plugin for media compatibility, including retina and WebP versions.
-Version: 1.0
+Version: 1.1
 Author: Pasindu Dewviman
 Author URI: https://itspasindu.com/
 License: GPL3
